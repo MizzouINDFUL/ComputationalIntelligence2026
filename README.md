@@ -1,4 +1,4 @@
-# ComputationalIntelligence2025
+# ComputationalIntelligence2026
 
 Intro to Computational Intelligence course at the University of Missouri, Fall 2025
 
